@@ -6,18 +6,20 @@
 
 <h2 align="left"> 👩‍💻  About Me:</h2>
 
-- 💻 I’m currently working on Unosquare 🦄
-- 🤓 I’m currently learning British English and other IT technologies 🕵️‍♀️
-- 📚 I’m reading the book "Los Miserables" by Victor Hugo
-- 👩‍🎓 I'm studying a master's degree "SOFTWARE ENGINEERING AND COMPUTER SYSTEMS"
-- 🏆 I am certified by TOEFL
-- ❤ My favorite book is "Mujercitas" by Louisa May Alcott
-- 🎧 My favorite song is "Vive" By Napoleon
-- 💡 I love to learn anythings about IT, English and literature books
-- ⚡ Fun fact: I like to dance 👯‍♀️, run 🏃‍♀️ and spending time with my family 👨‍👩‍👧‍👧.
+- 💼 I’m currently working in Unosquare. 🦄
+- 🤓 I’m currently learning British English and other IT technologies. 🕵️‍♀️
+- 👩‍🎓 I'm currently studying for a master's degree in "Software Engineering and Computer Systems".
+- 🧐 Interested in Python, Vue, Typescript, Javascript, Angular, AWS and Flutter.
+- 💻 Coding since 2016. ⏳
+- 🏆 I am certified by TOEFL.
+- 🎓 I graduated from ITGAM.
+- 📚 I’m reading the book "Los Miserables" by Victor Hugo.
+- ❤ My favorite book is "Mujercitas" by Louisa May Alcott.
+- 💡 I love to learn anythings about IT, English and literature books.
+- ⚡ In my free time, I enjoy dancing 👯‍♀️, running 🏃‍♀️ and spending time with my family 👨‍👩‍👧‍👧.
+- 📌 Living in Mexico City.
 
-
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left"> 🛠️ Languages and Tools</h2>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -26,8 +28,8 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
-
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </p>
 
 <p>
   <a href="https://www.linkedin.com/in/adriana-d%C3%ADaz-gonz%C3%A1lez-53a2781a0">
